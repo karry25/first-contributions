@@ -215,6 +215,7 @@ OAT
 - Chinmayee 
 - [Sautrik Roy 2](https://github.com/sautrikroy17)
 - [Chinenye Agu](https://github.com/Drchiagu)
+- [Ifunanya William Onah](https://github.com/IfunanyaWilliam)
 - NobleChicken97(https://github.com/NobleChicken97)
 - [apoorv_v](https://github.com/apoorvnv)
 - [Chirag Bimali](https://github.com/chirag-bimali)
@@ -224,6 +225,7 @@ OAT
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [junjielong21-netizen](https://github.com/junjielong21-netizen)
 - [Conner Lennon](https://github.com/cnnrl)
+- San
 - [Amavidato](https://github.com/Amavidato)
 - [Dave Herr](https://github.com/dave-herr)
 - [Dajmir LETS GOOO](https://github.com/dajmir)
@@ -1081,6 +1083,7 @@ https://github.com/1276604737-cloud
 - [Sanidhya Shrivastava](https://github.com/Sanidhya069)
 - [Meenal Pandey exploring open source](https://github.com/meenal-pandey)
 - [rathore]
+- [lowStakesDilemma](https://github.com/lowStakesDilemma)
 - [willbebettter]https://github.com/willbebettter
 - [Aidil Amal] (https://github.com/AidilAmal)
 - [hashemallaham963](https://github.com/hashemallaham963)
@@ -1302,6 +1305,7 @@ varshini
 - [Muhammed Nihad P P](https://github.com/Nihad257)
 - [Sneha Arun Naik](https://github.com/SnehaAN144)
 - [miyuki_h](https://github.com/HM19Lab)
+- Caleb
 - [Arav Jain](https://github.com/Aravj217)
 - [Arnav Jain](https://github.com/Arnavj217)
 - [Shikhar Srivastava](https://github.com/shikhar004dot-com)
